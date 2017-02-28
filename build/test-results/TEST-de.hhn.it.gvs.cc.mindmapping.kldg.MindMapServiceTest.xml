@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-01-14T18:23:11" hostname="Friedrichs-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="createNewMindMapIsNotNullTest" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.001"/>
+  <testcase name="invalidTokenExceptionWillBeThrownTest" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.001"/>
+  <testcase name="deleteNodeTest" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.001"/>
+  <testcase name="showMindMapTest" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.001"/>
+  <testcase name="addNodeIsNotNullTest" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.001"/>
+  <testcase name="deleteRelationWithMultipleChildRelations" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.002"/>
+  <testcase name="addRelationAndDeleteRelationDoesWhatItShouldTest" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.001"/>
+  <testcase name="updateNodeTest" classname="de.hhn.it.gvs.cc.mindmapping.kldg.MindMapServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

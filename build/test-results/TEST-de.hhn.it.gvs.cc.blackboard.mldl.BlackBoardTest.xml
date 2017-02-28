@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.hhn.it.gvs.cc.blackboard.mldl.BlackBoardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-01-14T18:23:11" hostname="Friedrichs-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="testGetName" classname="de.hhn.it.gvs.cc.blackboard.mldl.BlackBoardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

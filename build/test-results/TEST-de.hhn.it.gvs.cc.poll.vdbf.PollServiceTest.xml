@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-01-14T18:23:11" hostname="Friedrichs-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="getPollTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.0"/>
+  <testcase name="ListAllPollsTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.003"/>
+  <testcase name="participatePollTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.0"/>
+  <testcase name="startPollTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.001"/>
+  <testcase name="publishResultTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.0"/>
+  <testcase name="checkStatusTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.0"/>
+  <testcase name="createPollTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.001"/>
+  <testcase name="closePollTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.002"/>
+  <testcase name="checkTokenTest" classname="de.hhn.it.gvs.cc.poll.vdbf.PollServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 14, 2017 7:23:11 PM de.hhn.it.gvs.cc.poll.vdbf.bd.PollImp createPoll
+INFORMATION: The poll thePoll has been created
+Jan 14, 2017 7:23:11 PM de.hhn.it.gvs.cc.poll.vdbf.bd.PollImp startPoll
+INFORMATION: The users Token{token='john.doe@email.de', properties={}} have been added
+Jan 14, 2017 7:23:11 PM de.hhn.it.gvs.cc.poll.vdbf.bd.PollImp createPoll
+INFORMATION: The poll poll has been created
+Jan 14, 2017 7:23:11 PM de.hhn.it.gvs.cc.poll.vdbf.bd.PollImp startPoll
+INFORMATION: The users Token{token='john.doe@email.de', properties={}} have been added
+Jan 14, 2017 7:23:11 PM de.hhn.it.gvs.cc.poll.vdbf.bd.PollImp startPoll
+INFORMATION: The users Token{token='john.doe@email.de', properties={}} have been added
+]]></system-err>
+</testsuite>
